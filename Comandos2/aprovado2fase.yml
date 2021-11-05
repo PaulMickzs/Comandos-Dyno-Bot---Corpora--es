@@ -1,0 +1,5 @@
+{silent}
+{delete}
+{!role $1 -$2}
+{!role $1 +$3}
+:tada: **$1  Cargo alterado de $2 para $3 . Algum instrutor corrigiu sua prova e você passou nesta fase! você recebeu o cargo de {&🕵️‍♀️┃Aprovado (a) 2º FASE} parabéns! . Agora você já pode fazer a segunda prova do concurso <#863536505733644308>. | Cargo atualizado por: {user}**

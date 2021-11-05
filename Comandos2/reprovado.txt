@@ -1,0 +1,5 @@
+{silent}
+{delete}
+{!role $1 -$2}
+{!role $1 +$3}
+:mortar_board:**$1  Cargo alterado de $2 para $3 . Infelizmente algum instrutor corrigiu sua prova e decidiu que foi você foi reprovado! você recebeu o cargo de {&❌ ┃Reprovado}. Quando o concurso estiver aberto novamente, você poderá tentar fazê-lo mais uma vez.| Cargo atualizado por: {user}**

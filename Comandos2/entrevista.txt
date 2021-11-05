@@ -1,0 +1,5 @@
+{silent}
+{delete}
+{!role $1 -$2}
+{!role $1 +$3}
+:flag_br: **$1  Cargo alterado de $2 para $3 . Algum instrutor corrigiu sua prova e você passou em todas as fases do concurso! você recebeu o cargo de {&🎤 ┃Aguardando Entrevista} parabéns! . Agora preste atenção neste canal <#863535596600688670>, os instrutores irão anunciar a data da entrevista no canal citado ( lembrando que a provável data da entrevista sempre será quando o concurso encerrar!). | Cargo atualizado por: {user}**
