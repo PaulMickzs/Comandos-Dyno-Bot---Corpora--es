@@ -1,0 +1,12 @@
+{!announce <#900031505592639499>
+Olá {user}, Registro efetuado com sucesso! ✅
+}
+{delete} 
+{respond:#898580652130177055} 
+⚡**DADOS DO REGISTRO** 
+⌚️**Data:** {date} 
+🖥**Canal:** {channel} 
+🕵🏼**Registro realizado por:** {user} 
+👮‍♂️**Sua Idade:** $1
+🔰**Seu RG ( ID) Na cidade**: $2
+👨‍🎓**Seu Nome Real:** $3+

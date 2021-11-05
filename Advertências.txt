@@ -1,0 +1,12 @@
+$1
+{!announce <#898586405339537438> 
+**Data / Hora:** {date}, {time12}
+**Advertência(s) aplicada(s):** $2
+**Aplicada em:** $1
+**Aplicado por:** {user}
+**Motivo:** $3+
+**ID do Responsável:** {user.id} | {user.username}
+}
+
+{!role $1 +$2}
+{delete}

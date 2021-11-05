@@ -1,0 +1,5 @@
+	{silent}
+{delete}
+{!role $1 -$2}
+{!role $1 +$3}
+:white_check_mark: **$1  Rebaixado de $2 para $3 . Que coisa feia em, seu bisonho! | Alterar seu apelido no Discord o mais rápido possível | Rebaixado por: {user}**

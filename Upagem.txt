@@ -1,0 +1,5 @@
+{silent}
+{delete}
+{!role $1 -$2}
+{!role $1 +$3}
+:military_medal: :tada: **$1  Upado de $2 para $3 . Parabéns e merecido!  Trocar o seu apelido no discord o mais rápido possível. | Promovido por: {user}**
